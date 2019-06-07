@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/jordan-wright/http-boilerplate/server"
+	"github.com/lukeeckley/http-boilerplate/server"
 	"golang.org/x/crypto/acme/autocert"
 )
 

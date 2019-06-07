@@ -8,7 +8,7 @@ import (
 
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
-	"github.com/jordan-wright/http-boilerplate/server/api/v1"
+	"github.com/lukeeckley/http-boilerplate/server/api/v1"
 	"github.com/jordan-wright/unindexed"
 )
 
